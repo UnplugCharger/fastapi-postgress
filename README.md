@@ -1,2 +1,3 @@
 # fastapi-postgress
-fastapi    backend with postgress db
+
+Implementation of an Ecommerce website backend with Postgress database and fastapi backend
